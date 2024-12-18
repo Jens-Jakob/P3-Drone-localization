@@ -16,3 +16,7 @@ This github contains the code for P3 project
 Model checkpoint is available at the Google Drive link ⬇️below⬇️. Download and place them in the appropriate directories.
 
 https://drive.google.com/drive/folders/1_K4sLKFeILUGC9AHfPR_12tGpw-IqO2t?usp=drive_link
+
+
+
+This project is licensed under the MIT License. See the LICENSE file for details.
