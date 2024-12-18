@@ -9,7 +9,7 @@ This github contains the code for P3 project
 
 **SuperGlue**: Contains the SuperGlue model implementation.
 
-**final_model**: Directory for the final integrated model combining Siamese_Network and Superglue.
+**final_model**: Directory for the final integrated model combining Siamese_Network and Superglue. The actual final script is inside the directory and is called final.py.
 
 **ORB.py**: Script implementing the ORB (Oriented FAST and Rotated BRIEF) feature detector and descriptor.
 
